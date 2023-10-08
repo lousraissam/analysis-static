@@ -1,0 +1,2 @@
+project git repositor: https://github.com/lousraissam/analysis-static
+testing application repository  https://github.com/lousraissam/BigDeepCare-Backend/tree/main/ms_dm
